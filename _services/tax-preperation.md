@@ -1,6 +1,7 @@
 ---
 title: "Tax Preperation"
 date: 2018-11-18T12:33:46+10:00
+intro_image: "images/illustrations/reading.svg"
 featured: true
 weight: 6
 layout: service
