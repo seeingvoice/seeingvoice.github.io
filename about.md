@@ -1,17 +1,20 @@
 ---
-title: 'Welcome to AI Hearing'
+title: '我们提供弱听的终极解决方案'
 date: 2018-02-22T17:01:34+07:00
 layout: page
 bodyClass: page-about
 ---
 
-Revolutionizing hearing care is what we do. Because we believe that everyone on the planet should hear well to live well, we’re driven to make hearing care accessible and affordable around the world.
+见声科技有限公司为弱听及其他残障人士提供基于先进科技的辅助设备，帮助其借助科技的力量与大家正常地交流和分享。
 
-## AI Hearing Test
+公司的业务包括人工智能、云计算、智能可穿戴设备、云服务以及创新项目。我们还通过合作伙伴参与聋人教育和康复、听障知识普及以及残障公益事业。
 
-Phone, headphone, 3 minutes, you could conduct a thorough hearing test at home, office, and any quiet place. 
+见声的设备可以实质性地帮助弱听及其他残障人士更加容易地获得学习工作和生活中所需要的信息，为残障人士积极参与社会活动提供必要的支撑。见声科技为“完善包括机会公平在内的社会公平保障体系”而努力。
 
-## AI Seeing Voice
+## 让天下没有听不明的声音
 
-The speech is not clear, but our sight is good. So we see the voice, rather than hear it. 
+见声科技由来自美国、加拿大、中国的专家及投资机构合作于2018年5月在山西转型综合改革示范区创立。注册资本1000万元。公司创始人曾就职于北美知名企业及大学，在语音识别、图像处理、深度学习、可穿戴设备等方面拥有数十年的研究开发经验，并在各自相关领域取得卓越成就。
+
+## 见字知声，闻声感物，见性见声
+
 
