@@ -1,15 +1,12 @@
 ---
-title: "Business 1 Advisory"
+title: "Business Advisory"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 weight: 2
 layout: service
-intro_image: "images/illustrations/reading.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: false
 ---
 
-we markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
+Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
 ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
 ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
 quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
