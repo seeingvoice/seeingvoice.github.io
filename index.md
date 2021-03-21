@@ -7,8 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-## 黑夜给了我黑色的眼睛
-# 我也用它去听
+# 我看故我听
 
 
 看见你的声音，听见我的心。
