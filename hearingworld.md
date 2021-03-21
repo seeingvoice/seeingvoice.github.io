@@ -14,6 +14,6 @@ intro_image_hide_on_mobile: false
 
 见声通过长期研究，在精准度和方便性之间取得令人满意的平衡。见声听力计、听力测试App ，融合智能手机言频系统和传统纯言测试技术，为中国2亿弱听人士提供比较科学的关爱自己耳朵的入口。
 
-> [右键点击下载（安卓版）](https://github.com/seeingvoice/seeingvoice.github.io/blob/main/support/HearingWorld304.apk)。<BR>
-> 或者在各大应用市场搜“见声听力测试”。<BR>
-> [点击观看视频使用说明](https://github.com/seeingvoice/seeingvoice.github.io/blob/main/support/M300_59s.mp4)。
+> 安装方法：各大应用市场搜“见声听力测试”（华为、小米、OPPO、VIVO、应用宝、谷歌）。
+> 使用说明：请[点击观看QQ视频](https://v.qq.com/x/page/z32316y129r.html)
+> 或者抖音()
