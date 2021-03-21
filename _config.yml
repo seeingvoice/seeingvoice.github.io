@@ -9,9 +9,9 @@ homepage:
 logo:
   mobile: "images/logo/aiHearing.png"
   desktop: "images/logo/aiHearing.png"
-  desktop_height: "36px"
+  desktop_height: "60px"
 footer:
-  copyright_text: '见声科技 by <a class="zerostatic" href="https://hypech.com">hypech.com</a>'
+  copyright_text: '晋公网安备14019202000640号, 晋ICP备18009349号-1, 见声科技 by <a class="zerostatic" href="https://hypech.com">hypech.com</a>'
 
 seo:
   meta_og_title: "看见声音"
