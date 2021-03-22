@@ -1,5 +1,5 @@
 ---
-title: 见声听测
+title: hearingworld
 layout: services
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
