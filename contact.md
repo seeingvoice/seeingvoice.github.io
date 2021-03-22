@@ -12,4 +12,4 @@ bodyClass: page-contact
 
 > 中国：+86 (351) 523-5520
 
-[二维码](images/social/wechat150.jpg) 
+![二维码](images/social/wechat150.jpg) 
