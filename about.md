@@ -2,9 +2,6 @@
 title: '我们提供弱听的终极解决方案'
 date: 2018-02-22T17:01:34+07:00
 layout: page
-intro_image: "images/illustrations/reading.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: false
 ---
 
 见声科技有限公司为弱听及其他残障人士提供基于先进科技的辅助设备，帮助其借助科技的力量与大家正常地交流和分享。
