@@ -1,5 +1,10 @@
 [
   {
+    "name": "weibo",
+    "link": "https://weibo/seeingvoice",
+    "image": "images/social/weibo.svg"
+  },
+  {
     "name": "Facebook",
     "link": "https://www.facebook.com/aihearing",
     "image": "images/social/facebook.svg"
