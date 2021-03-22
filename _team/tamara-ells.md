@@ -8,5 +8,4 @@ promoted: true
 weight: 4
 layout: team
 ---
-
 As the Senior Vice President of Talent, Scarlet oversees our “people” function. She is charged with attracting and recruiting all of the awesome people who work here, building and maintaining the company culture.
