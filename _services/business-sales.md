@@ -1,6 +1,6 @@
 ---
-title: 助听眼镜
-subtitle: "arglasses"
+title: 听力计
+subtitle: audiometer
 description: hw1bb
 date: 2018-11-28T15:15:26+10:00
 featured: true
