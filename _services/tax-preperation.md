@@ -8,11 +8,7 @@ featured: true
 weight: 6
 layout: service
 ---
-- 智能转化声音为文字，并显示在眼镜上
-- 彻底解决助听听不清、伤耳的弊端
-- 中度弱听最佳方案
-- 重度弱听唯一办法
-- 所见即所听
+智能转化声音为文字，并显示在眼镜上。彻底解决助听听不清、伤耳的弊端。中度弱听最佳方案，可能重度弱听唯一办法。由听变看，清洗不伤耳。
 
 Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
 clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
