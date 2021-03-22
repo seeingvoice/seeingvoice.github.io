@@ -6,5 +6,5 @@ bodyClass: page-contact
 中国太原
 山西转型综合改革示范区科技创新孵化基地4号8楼
 
-微信公众号：
+> 微信公众号：
 ![二维码](images/social/wechat150.jpg) 
