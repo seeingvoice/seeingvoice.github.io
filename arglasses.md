@@ -1,5 +1,6 @@
 ---
 title: 见声听测
+sub:arglasses
 layout: products
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
