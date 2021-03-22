@@ -1,5 +1,7 @@
 ---
 title: "Business Sales"
+subtitle: hw1
+description: hw1
 date: 2018-11-28T15:15:26+10:00
 featured: true
 intro_image: "images/illustrations/reading.svg"

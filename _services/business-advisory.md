@@ -1,5 +1,7 @@
 ---
 title: "arglasses"
+subtitle: hw1
+description: hw1
 layout: product
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
