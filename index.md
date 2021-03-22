@@ -1,14 +1,12 @@
 ---
-title: AI Hearing World
+title: 见声科技，AI Hearing World
 layout: home
-description: 3 minutes hearing test.
+description: 我看故我听
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
-
 # 我看故我听
-
 
 看见你的声音，听见我的心。
 
