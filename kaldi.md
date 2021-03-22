@@ -1,7 +1,7 @@
 ---
 title: kaldi
 subtitle: 技术支持
-description: 技术支持
+description: KaldiASR
 layout: services
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
