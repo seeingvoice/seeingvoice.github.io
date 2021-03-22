@@ -1,5 +1,6 @@
 ---
 title: hearingworld
+subtitle: 听力测试
 layout: services
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
@@ -15,6 +16,5 @@ intro_image_hide_on_mobile: false
 见声通过长期研究，在精准度和方便性之间取得令人满意的平衡。见声听力计、听力测试App ，融合智能手机言频系统和传统纯言测试技术，为中国2亿弱听人士提供比较科学的关爱自己耳朵的入口。
 
 1. 安装方法：各大应用市场搜“见声听力测试”（华为、小米、OPPO、VIVO、应用宝、谷歌）。
-2. 使用说明：
-    - <a href="https://v.qq.com/x/page/z32316y129r.html" target="_blank">QQ视频讲解</a>
-    - <a href="https://www.ixigua.com/6942253201676566564" target="_blank">头条视频讲解</a>
+2. <a href="https://v.qq.com/x/page/z32316y129r.html" target="_blank">QQ视频讲解</a>
+3. <a href="https://www.ixigua.com/6942253201676566564" target="_blank">头条视频讲解</a>
