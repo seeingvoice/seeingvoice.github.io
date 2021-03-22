@@ -1,5 +1,7 @@
 ---
-title: 见声听测
+title: kaldi
+subtitle: 技术支持
+description: 技术支持
 layout: products
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
