@@ -3,10 +3,11 @@ title: 'Winton Daniels'
 date: 2018-12-20T13:44:30+10:00
 draft: false
 image: 'images/team/joseph-gonzalez-399972-unsplash.jpg'
-jobtitle: 'Art Director'
+jobtitle: 'Project Manager'
 promoted: true
 weight: 3
 layout: team
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Winton has a strong background and vast experience in AI technology. With experience in enterprise-level products and modern technologies, 
+Winto brings best practices and industry trends to help the company run efficiently and discover all its’ potential.
