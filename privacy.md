@@ -1,5 +1,5 @@
 ---
-title: 'Privacy Policy'
+title: '隐私政策'
 date: 2021-02-22T17:01:34+07:00
 layout: page
 bodyClass: page-about
