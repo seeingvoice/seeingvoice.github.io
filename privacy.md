@@ -4,224 +4,145 @@ date: 2021-02-22T17:01:34+07:00
 layout: page
 bodyClass: page-about
 ---
-
-# Privacy Policy 
-
-ReApex, Inc. (“ReApex,” “us,” “we,” or “our”) is committed to protecting and respecting your privacy in connection with your use of our website,  (the “Website(s)”), applications (“Apps”) and other products, services and features thereof (the Website, the Apps and such other products, services and features are collectively referred to herein as the “Product” or “Products”, which may be updated from time-to-time at the sole discretion of ReApex). This privacy policy (“Privacy Policy”) and any other documents referred to herein set forth the basis on which any personal information we collect from you, or that you provide to us, in connection with the Products will be processed by us. Please read the following carefully to understand our practices regarding your personal information and how we will collect, use and disclose your personal information.
-
- 
-## 1. INFORMATION WE MAY COLLECT FROM YOU
-We may collect and process the following information about you:  Personal information including, for example, your name, e-mail address, telephone, information about your usage of the Products and information collected by tracking technologies as further described below that may identify you as an individual or allow online or offline contact with you as an individual.
-
-ReApex does not collect or process credit or debit card (“Payment Card”) information. Apple and Google collect Payment Card information with respect to in-app purchases made through the Apps, and our payment processor collects Payment Card information with respect to purchases made through the Websites. Such payment processors generally provide us with some limited information related to you, such as a unique token that enables you to make additional purchases using the information they’ve – stored, and your card’s type, expiration date, billing address, and the last four digits of your card number.
-
-For individuals using the Products in connection with a Community client account as described in section 6, business information such as your company name, and company email address to the extent that you provide such information
-
-Facebook profile information, such as name, email address, and Facebook ID, if you choose to log in to the Products through Facebook.
-
-Device Information such as operating system version, device type, and system performance information.
-
-Information collected via tracking technologies, as fully described in section 4. If you choose to invite a “Friend” to use the Products using our Referral program, we will ask you for their name and email address. We will use this information to invite him or her to join the Products. We store this information for the sole purpose of sending invitations and tracking the success of our Referral program. If your Friend would like us to delete his or her information, they can do so by opting-out as described in each invitation or by contacting us at support@hypech.com.
-
- 
-## 2. CONFIDENTIALITY AND SECURITY
-​The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at support@hypech.com. Except as described under the “Disclosure of Your Information” section below, we do not provide your personal information to any third party without your specific consent, as defined by applicable law.
-
- 
-## 3. NEWSLETTERS OR OTHER ELECTRONICS COMMUNICATIONS
-​If you sign up to receive promotional materials from us via email we will use the information you give us to provide the communications you have requested.
-
-​If you inform us that you wish to cancel email promotional materials by selecting “unsubscribe” at the bottom of such communication or by emailing us at support@hypech.com, we will remove you from our mailing list.
-
-If you no longer wish to receive push notifications, you may turn them off at the device level.
-
-If you provide your phone number to us directly or through a third-party for the specific purpose of receiving an SMS message with a link to our Apps, you will receive such SMS message (the “SMS Service”). Standard text message rates will apply.
-
- 
-## 4. TRACKING TECHNOLOGIES
-​ReApex and our analytics partners use technologies such as cookies, beacons, tags, and scripts to enable a service to recognize your device so you don’t have to provide the same information several times during one task, recognize that you may have already given a username and password so you don’t need to do it for every web page requested, and to measure how people are using the Products.
-
-We use local storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on the Products also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5.
-
-​We partner with third parties, such as Facebook and Google, to manage our advertising of the Products on other sites or platforms as well as across your other devices based on your past visits to our website. Our third party partners may use technologies such as cookies to gather information about your activities within the Products to deliver such advertising to you, such as retargeting ads. We will acquire consent from you in order to use such trackers for advertising purposes to the extent required by applicable law. We currently do not respond to do-not-track signals. For more information about interest-based ads, including how to opt-out of having your web-browsing information used for behavioral advertising purposes, please visitwww.aboutads.info/choices. Please note that this does not opt you out of being served ads. You may continue to receive generic ads on these third party platforms. You may also opt-out of receiving ads across devices by adjusting your ad preference in your Google account.
-
-​We use third party trackers to let us know when users have visited the Products by “clicking-through” our sponsored advertising or content hosted on third party platforms. The Products use Google Analytics code to gather statistical information. Google Analytics sets cookies to help us accurately estimate the number of visitors to the Products and the volumes of usage of the Products. This is done to ensure that the Products are available when you want them and are fast. For more information on how Google Analytics processes this information, visit www.google.com/analytics.​
-
- 
-
-MOBILE ANALYTICS
-
-We use mobile analytics software to allow us to better understand the functionality of our mobile software on your phone. This software may record information such as how often you engage with the Products, the events that occur within the Products, aggregated usage and performance data, and where the Applications were downloaded from. We may link the information we store within the analytics software to any personal information you submit within the mobile application.
-
-​LOG FILES
-
-As true of most websites, we gather certain information and automatically and store it in log files. This information may include Internet Protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
-
-​If you receive the HTML-formatted version of our email newsletter, your opening of the newsletter is notified to us and saved. Your clicks on links in the newsletter are also saved. These and the open statistics are used in aggregate form to give us an indication of the popularity of the content and to help us make decisions about future content and formatting.
-
- 
-## 5. WHERE WE STORE YOUR PERSONAL INFORMATION
-All information you provide to us through the Products is stored on our secure servers located in the US. Any payment transactions will be encrypted using SSL technology; all payment information is stored with our payment processor and is never stored on ReApex’s servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Products, you are responsible for keeping this password confidential. We ask you not to share a password with anyone and suggest that you change your password frequently.
-
-Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your information transmitted to the Products; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
-
-We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.
-
-These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
-
-We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
-
-We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
-
-If ReApex, Inc. is involved in a merger, acquisition or asset sale, your Personal Information may be transferred as a business asset. In such cases, we will provide notice before your Personal Information is transferred and/or becomes subject to a different Privacy Policy.
-
-The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.
-
-However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
-
-Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
-
-If you are located outside the United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to the United States and process it there.
-
-Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
-
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
-
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
-
-Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 (“Children”).
-
-We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
-
-This Privacy Policy is effective as of July 11, 2018, and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
-
-If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us or by placing a prominent notice on our website.
-
- 
-
-## 6. CORPORATE AND OTHER COMMUNITY SHARING
-There is interest by large consumer communities (companies, universities, hospitals, etc.) (“Communities”) to introduce the Products to their employees and members. If you have registered to use the Products through a code or other registration credential furnished by a Community (a “Community Subscription”), the Community will have access to your name and the date you registered to use the Products and will have access to your usage information on an aggregated basis with all other members of the Community that are using the Products. Your Community may also have access to your usage information on an individual basis if you have provided appropriate consent under applicable law for such sharing. For example, many employers are offering incentive programs based on employee participation in health & wellness programs and desire to better understand how each of their individual employees is using the Products.
-
- 
-
-## 7. SINGLE SIGN ON
-You can log into our Products using sign-in services such as Facebook Connect, Google Sign-In or an Open ID provider. These services will authenticate your identity, provide you the option to share certain personal information (such as your name and email address) with us, and to pre-populate our sign-up form. Services like Facebook Connect give you to the option to post information about your activities on our Products or to your profile page to share with others within your network.
-
- 
-
-## 8. ACCESS TO AND DELETION OF PERSONAL INFORMATION
-​Upon request, ReApex will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information, please email support@hypech.com.​
-
-You may access your personal information to modify or update at any time via an online account, or by emailing support@hypech.com.
-
-To request the deletion of your personal data that we have on file please email us at support@hypech.com. Upon request, ReApex will permanently and irrevocably anonymize your data such that it can never be reconstructed to identify you as an individual.
-
-We will respond to your request in a reasonable timeframe.
-
- 
-## 9. USES MADE OF THE INFORMATION
-​We use information held about you in the following ways:
-
-To ensure that content provided by the Products is presented in the most effective manner for you and for your computer or other devices.
-
-To provide you with information, products or services related to ReApex that you will facilitate your engagement with the Products.
-
-To provide you with promotional communications, such as email, to the extent that you have provided consent to receive such communications under applicable law.
-
-To provide you with customer service communications.
-
-To carry out our obligations arising from any agreements entered into between you and us.
-
-To allow you to participate in interactive features of the Products when you choose to do so.
-
-To notify you about changes to the Products.
-
-To understand your broad, non-specific geographic location to help us identify groups of users by general geographic market (such as zip code, state or country).
-
-To account for applicable sales taxes based on zip codes provided to our payment processors for purchases made through the Websites.
-
-To inform your Community about your registration and use of the Products as described under Corporate and Other Community Sharing in section 6 above.
-
-To serve our advertisements to you through third-party platforms, such as Facebook or Google, on other sites and apps or across your devices, to the extent that you have provided consent for such uses under applicable law
-
-To provide you with the SMS Service to the extent that you have provided consent for such practices under applicable law.
-
-We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-
-Details of transactions you carry out through the Products and of the fulfillment of your Product orders.
-
-Details of your visits to and interactions with the Products including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
-
-If you are an existing customer, we will only contact you by electronic means (e-mail or in-Product communication) with information about products and services similar to those which were the subject of a previous sale to you.
-
-We do not disclose information about identifiable individuals to companies that host advertisements on our behalf, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target.
-
- 
-## 10. DISCLOSURE OF YOUR INFORMATION
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company, and its subsidiaries.
-
-We may also disclose your personal information to third parties as follows:
-
-In some circumstances, based on your specific requests, we may need to disclose your personal information to a third party so that they can provide a service you have requested from such party, or fulfill a request for information from such party. An example of this is the SMS Service.
-
-In some circumstances, we may disclose the personal information that you have provided to ReApex to a third party that offers and/or provides goods or services complementary to our own for the purpose of enhancing our users’ experiences by offering you integrated or complementary functionality, complementary services or bundled pricing options.
-
-If ReApex’s service providers (like hosting, market analytics, and payment service providers) require this information to provide services to ReApex. ReApex requires each of its service providers to agree to maintain the confidentiality and security of your personal information.
-
-In the event that we sell or buy any business or assets, in which case we may disclose your personal information to the prospective seller or buyer of such business or assets.
-
-If ReApex or substantially all of our assets are acquired by a third party, in which case personal information held by us about our customers will be one of the transferred assets.
-
-If we are under a duty to disclose or share your personal information in order to comply with any legal obligation such as to comply with a subpoena, bankruptcy proceedings, similar legal process, or in order to enforce or apply our agreements with you; or to protect the rights, property, or safety of ReApex, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
-
-With your Community, if your subscription is a Community Subscription, as described under Corporate and Other Community Sharing above.
-
-With third parties, such as Facebook, in order to serve ReApex advertisements on such third party platforms, to the extent that you have consented to such practices under applicable law.
-
- 
-## 11. WITHDRAWAL OF CONSENT FOR PROCESSING ACTIVITIES
-To the extent that you have provided appropriate consent under applicable law to certain processing activities, such as use of trackers for the purpose of retargeting activities, such consent can be withdrawn at any time by emailing support@hypech.com.
-
- 
-
-## 12. LINKS TO THIRD PARTY SITES
-The Products may, from time to time, contain links to and from the Products of our partner networks, advertisers and affiliates. If you follow a link to any of these external websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these websites or their policies. Please check these policies before you submit any personal information to these external websites.
-
- 
-## 13. SOCIAL MEDIA WIDGETS
-Our Products include social media features, such as the Facebook Like button, and widgets, such as the “Share This” button, or interactive mini-programs. These features may collect your Internet protocol address, which page you are visiting on or Products, and may set a cookie to enable the feature to function properly. Social media features and widgets are hosted by a third party or hosted directly on our Products. Your interactions with these features are governed by the privacy statement of the company providing it.
-
- 
-## 14. USE OF ReApex BY MINORS
-You must be 18 years of age, or the age of majority in your province, territory or country, to sign up as a registered user of the Products. Individuals under the age of 18, or the applicable age of majority, may utilize the Products only with the involvement and consent of a parent or legal guardian, under such person’s account and otherwise subject to these Terms.
-
- 
-## 15. INFORMATION POSTED ON FORUMS
-ReApex users may have the ability to post content to one or more ReApex forums. All such users may request and obtain removal of such posted content by contacting ReApex at support@hypech.com and specifically identifying the content to be removed. Please be advised that any such removal does not ensure complete or comprehensive removal of all traces of the content posted on the ReApex forum(s).
-
- 
-## 16. CHANGES TO OUR PRIVACY POLICY
-We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will notify you by in-Product message, email (sent to the e-mail address specified in your account) or by means of a notice in the Products prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
- 
-## 17. CONTACT AND EEA REGISTERED AGENT​
-Questions, comments, and requests regarding this privacy policy are welcomed and should be addressed to support@hypech.com.​
-
-This Privacy Policy is effective and was last updated on Feb 11, 2021. 
-
- 
-
-## 18. EU-U.S. AND SWISS-U.S. PRIVACY SHIELD
-We participate in and have certified our compliance with the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks. ReApex is committed to subjecting all personal data received from the European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. https://www.privacyshield.gov/list
-
-ReApex is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. ReApex complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
-
-For personal data covered by Privacy Shield, you have the ability to opt-out of whether such personal information is disclosed to a third-party or is to be used for a purpose that is materially different for the purpose for which it was originally collected or subsequently authorized. You can contact ReApex at support@hypech.com in order to make such choices.
-
-​With respect to personal data received or transferred pursuant to the Privacy Shield Framework, ReApex is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, ReApex may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-
-Under certain conditions, more fully described on the Privacy Shield website https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
-
- 
+本应用非常重视用户的个人信息和隐私保护。您在使用本应用产品及/或服务时，本应用可能会收集和使用您的相关信息。本应用希望通过本《隐私政策》向您说明，在使用本应用产品及/或服务时，本应用如何收集、使用、分享、保存和管理这些信息。 本《隐私政策》将帮助您了解以下内容：
+    第一章 本应用如何收集您的个人信息
+    第二章 本应用如何使用您的个人信息
+    第三章 本应用如何使用Cookie和同类技术
+    第四章 本应用如何共享、转让、公开披露您的个人信息
+    第五章 本应用如何保护您的个人信息
+    第六章 本应用如何保存您的个人信息
+    第七章 管理、查看或删除您的个人信息
+    第八章 未成年人信息的保护
+    第九章 本政策如何更新
+    第十章 投诉及建议
+本《隐私政策》与您所使用的本应用产品及/或服务息息相关，希望您在使用本应用产品及/服务前仔细阅读并确认您已充分理解本《隐私政策》项下的内容。在需要时，本应用希望您按照本《隐私政策》的指引做出您认为适当的选择。本《隐私政策》中涉及的相关技术词汇或术语，本应用尽量以简明扼要的表述，以便您更好地理解。 鉴于《本应用用户使用许可服务协议》已经包含本《隐私政策》及其更新版本（本应用会及时提示您更新的情况），您同意和接受《本应用用户使用许可服务协议》即表明您已同意本应用按照本《隐私政策》（含更新版本）收集、使用、分享、保存和管理您的相关信息。
+
+第一章 本应用如何收集您的个人信息
+您向本应用提供相关个人信息
+为开展听力测试，您首先需要注册账号并登录，对于该账号信息所涉的个人信息，本应用将按照本《隐私政策》予以保护。
+在您使用本应用产品及/或服务时，您可能会因账号管理、听力测试等问题联系本应用客服。您可能需要向本应用提供手机号码、微信号、QQ号、E-mail等相关的信息、系统操作记录、头像等与您使用本应用产品及/或服务相关的信息，以便本应用的客服与您联系，并帮助您解决相关问题。如果您拒绝提供相关信息，本应用可能无法帮助您解决相关问题。
+本应用收集您所使用的相关设备信息
+    当您使用本应用的产品及/或服务时，本应用将收集您所使用的相关设备信息，以便本应用为您提供持续稳定的网络运营支持，同时有助于本应用不断改善自身产品及/或服务（如基于崩溃率统计修复系统问题等），从而使您在使用本应用的产品及/或服务过程中获得最优体验。本应用收集的您所使用的相关设备信息包括设备名称、设备型号、操作系统和应用程序版本及类型、包括读取通话状态和移动网络信息等。
+
+本应用通过调用设备权限收集您的相关个人信息
+    为提升本应用产品及/或服务的使用体验和便利程度，本应用可能会通过调用设备权限的方式收集您的如下个人信息。如果您不同意提供这些个人信息，您可能无法使用本应用产品及/或服务的功能，本应用通过调用设备权限收集的个人信息包括设备位置、“访问您设备上的照片、媒体内容和文件”、录制音频等。
+
+您充分知晓，在以下情形下，我们收集、使用个人信息无需征得您的授权同意：
+与国家安全、国防安全有关的；
+与公共安全、公共卫生、重大公共利益有关的；
+与犯罪侦查、起诉、审判和判决执行等有关的；
+出于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；
+所收集的个人信息是个人信息主体自行向社会公众公开的；
+从合法公开披露的信息中收集的您的个人信息的，如合法的新闻报道、政府信息公开等渠道；
+根据您的要求签订合同所必需的；
+用于维护所提供的产品及/或服务的安全稳定运行所必需的，例如发现、处置产品及/或服务的故障；
+法律法规规定的其他情形。
+
+第二章 本应用如何使用您的个人信息
+    在收集您的个人信息后，本应用将根据如下规则使用您的个人信息：
+
+本应用会根据本《隐私政策》的约定并为实现本应用的产品及/或服务功能对所收集的个人信息进行使用。
+请您注意，对于您在使用本应用的产品及/或服务时所提供的所有个人信息，除非您删除或通过相关设置拒绝我们收集，否则您将在使用产品及/或服务期间持续授权本应用使用。在您注销账号时，本应用将停止使用并对您的个人信息进行删除或匿名化处理。
+本应用会对旗下产品及/或服务使用情况进行统计，并可能会与公众或第三方共享这些统计信息，以展示本应用产品及/或服务的整体使用趋势。但这些统计信息不会包含您的任何身份识别信息。
+当本应用要将您的个人信息用于本政策未载明的其它用途时，或将基于特定目的收集而来的信息用于其他目的时，本应用会主动事先征求您的明示同意。
+
+第三章 本应用如何使用Cookie和同类技术
+    为了更好地向您提供本应用产品及/或服务，本应用使用了若干自动数据收集工具，目前包括Flash Cookies和内嵌Web链接。借助这些技术，本应用能够实时跟踪您的听力测试进度，并了解您的偏好信息，从而为您提供流畅、优质、个性化的用户体验。本应用不会将上述技术用于本政策所述目的之外的任何用途。请您理解，本应用的某些服务只能通过使用上述技术才可得到实现。如您的设备或相关程序允许，您可以通过改变设置，或通过访问提供商的网页，来关闭或删除上述技术。但这一举动可能会影响您使用本应用产品及/或服务。
+
+第四章 本应用如何共享、转让、公开披露您的个人信息
+共享
+    本应用将严格遵守相关法律法规，对您的个人信息予以保密。除以下情况外，我们不会向其他人共享您的个人信息：
+
+事先获得您明确的同意或授权；
+根据适用的法律法规规定，或基于司法或行政主管部门的强制性要求进行提供；
+在法律法规允许的范围内，为维护您或其他本应用用户或其他个人的生命、财产等合法权益或是社会公共利益而有必要提供；
+应您的监护人的合法要求而提供您的信息；
+根据与您签署的相关协议（包括在线签署的电子协议以及相应的平台规则）或其他的法律文件约定而提供；
+与本《隐私政策》第一章所述第三方进行共享：您在使用本应用产品及/或服务的过程中使用本《隐私政策》第一章所述的第三方服务时，本应用与第三方的共享规则将遵循本《隐私政策》第一章项下相关约定；
+本应用可能会基于您的相应授权将您的个人信息与本应用的关联方共享。但本应用只会共享必要的个人信息，且受本《隐私政策》所述目的之约束。本应用的关联方如要改变个人信息的处理目的，将适时向您征得明示同意。
+对本应用与之共享个人信息的公司、组织和个人，本应用将尽商业上合理的努力要求其在处理您的个人信息时遵守相关法律法规，尽力要求其采取相关的保密和安全措施，以保障您的个人信息安全。
+转让
+    本应用不会将您的个人信息转让给任何公司、组织和个人，但以下情况除外
+
+事先获得您明确的同意或授权；
+根据适用的法律法规、法律程序的要求、强制性的行政或司法要求而必须进行提供；
+根据与您签署的相关协议（包括在线签署的电子协议以及相应的平台规则）或其他的法律文件约定而提供；
+在涉及收购、兼并、破产清算、重组等变更时，如涉及到个人信息转让，本应用会要求新的持有您个人信息的公司或组织继续履行本《隐私政策》项下的责任和义务。如变更后的主体需变更个人信息使用目的，我们会要求其事先获得您的明示同意。
+公开披露
+    本应用仅会在以下情况下，且在采取符合业界标准的安全防护措施的前提下，才会公开披露您的个人信息：
+
+根据您的需求，在您明确同意的披露方式下披露您所指定的个人信息；
+根据法律、法规的要求、行政或司法机关的强制性要求，我们可能会公开披露您的个人信息。当本应用收到上述披露请求时，本应用会依法要求请求方出具相关法律文件，如传票或调查函等。本应用会慎重审查每一披露请求，以确保该等披露请求符合相关法律规定。在法律法规许可的前提下，本应用会对包含披露信息的文件进行加密保护。
+
+第五章 本应用如何保护您的个人信息
+本应用非常重视个人信息安全，并会采取一切合理可行的措施，持续保护您的个人信息，以防其他人在未经授权的情况下访问、篡改或披露本应用收集的您的个人信息：
+本应用已采用符合行业标准的安全防护措施来保护您的个人信息，防止数据遭到未经授权的访问、公开披露、使用、修改、损坏或丢失。我们会采取一切合理可行的措施，保护您的个人信息。我们会使用加密技术确保数据的保密性；我们会使用受信赖的保护机制防止数据遭到恶意攻击。
+本应用仅允许有必要知晓的人员访问相关个人信息，并为此设置了严格的访问权限控制和监控机制。本应用同时要求可能接触到您个人信息的所有人员履行相应的保密义务。如果未能履行这些义务，可能会被追究法律责任或被终止与本应用的相应法律关系。
+本应用会采取一切合理可行的措施，确保未收集无关的信息。
+请您理解，由于技术的限制以及可能存在的各种恶意手段，在互联网行业，即便竭尽所能加强安全措施，也不可能始终保证信息百分之百的安全。您需要了解，您接入本应用的服务所用的系统和通讯网络，有可能因本应用可控范围外的因素而出现问题。
+在不幸发生信息安全事件后，我们将按照法律法规的要求，及时向您告知：安全事件的基本情况和可能的影响、我们已采取或将要采取的处置措施、您可自主防范和降低风险的建议、对您的补救措施等。我们同时将及时将事件相关情况以邮件、信函、电话、推送通知等方式告知您；难以逐一告知信息主体时，我们会采取合理、有效的方式发布公告。同时，我们还将按照监管部门要求，主动上报信息安全事件的处置情况。
+
+第六章 本应用如何保存您的个人信息
+保存期限
+在用户使用本应用产品及/或服务期间，我们会持续保存用户的个人信息。
+根据相关法规要求，本应用将保存您的听力测试记录至您账号注销之日后的180天。对于其他数据的保存期限，本应用承诺将是为了实现本应用产品及/或服务目的所必需的最短期限。在超出上述期限后，本应用会对您的相关信息进行删除或匿名化处理。
+保存地域
+您的个人信息将全部被存储于中华人民共和国境内。
+目前本应用不存在向境外提供个人信息的场景。如将来涉及向境外传输个人信息，本应用将明确向您告知个人信息出境的目的、接收方、安全保障措施等情况，并另行征得您的同意。
+
+第七章 管理、查看或删除您的个人信息
+本应用非常尊重您对自己的个人信息所享有的权利。我们保障您对个人信息所享有的访问、更正、删除、管理等权利。
+
+访问和更正您的个人信息
+除法律法规另有规定之外，您有权行使数据访问权。当您发现我们处理关于您的个人信息有错误或者您有其他修改、补充需求时，您也有权要求本应用或自行予以更正。您行使数据访问和更正权的方式包括但不限于：
+您的账号信息。如果您希望访问或修改您在本应用产品及/或服务中的账号信息，包括头像、昵称、性别、生日、地区信息、手机号码等实名验证信息、账号密码等，您可以通过访问本应用产品及/或服务进行操作。
+在以下情形中，您可以向本应用提出删除个人信息的请求：
+如果本应用处理个人信息的行为违反相关的法律法规；
+如果本应用收集、使用您的个人信息，却未征得您的同意；
+如果本应用处理个人信息的行为违反了与您的约定；
+如果您不再使用本应用的产品及/或服务，或者您注销了相关账号；
+如果本应用不再为您提供产品及/或服务。
+若本应用决定响应您的删除请求，本应用还将同时通知从本应用获得您的个人信息的实体，要求其及时删除，除非法律法规另有规定或这些实体已获得您的独立授权。
+撤回同意
+您有权向本应用撤回您此前作出的有关同意收集、使用您的个人信息的授权。当您撤回同意后，本应用将不再处理您的相关个人信息。但您撤回同意的决定，不会影响此前基于您的授权而开展的个人信息处理活动。
+您可以通过删除相关个人信息的方式撤回您此前就特定个人信息而对本应用作出的同意授权。
+注销账号
+您有权随时注销您在本应用产品及/或服务中注册的账号。为保障账号及财产安全，您需要通过客户服务或本《隐私条款》第十章载明的联系方式向本应用提出您的账号注销请求。本应用将在与您核实相关信息后对您的请求作出响应。
+请您注意，注销本应用相关产品及/或服务账号是不可恢复的操作。在注销账号之后，本应用将停止为您提供产品及/或服务，并将删除或匿名化处理该账号项下的您的个人信息，除非法律法规另有规定。
+获取个人信息副本
+根据您的请求，本应用可以向您提供本应用持有的有关您的个人信息副本（如个人基本资料）。您可以通过客户服务或本《隐私条款》第十章载明的联系方式向本应用提出请求。
+约束信息系统自动决策
+在本应用仅依据信息系统、算法等在内的非人工自动决策机制做出决定，并且这些决定显著影响您的合法权益的情况下，您有权要求本应用做出解释，本应用也将提供适当的救济方式。
+响应您的上述请求
+如果您对本应用在以上列明的有关访问、更正、删除您的个人信息，以及撤回同意、注销账号、约束信息系统自动决策方法有任何疑问，您可以通过客户服务或本《隐私政策》第十章载明的联系方式与本应用联系。
+本应用已经建立申诉管理机制，包括跟踪流程等。为了保障账号及财产安全，本应用可能会与您核实相关信息。本应用将在收到您的反馈后尽快答复您的请求，最长不超过30天。若您对答复意见不满意，您可以再次通过客户服务进行申诉。
+对于您合理的请求，本应用原则上不收取费用，但对多次重复、超出合理限度的请求，本应用将视情况收取一定成本费用。对于那些无端重复、需要过多技术手段、给他人合法权益带来风险或者非常不切实际的请求，本应用可能会予以拒绝。
+在以下情形下，我们可能无法响应您的请求：
+与国家安全、国防安全有关的；
+与公共安全、公共卫生、重大公共利益有关的；
+与犯罪侦查、起诉和审判等有关的；
+有充分证据表明您存在主观恶意或滥用权利的；
+响应您的请求将导致其他个人、组织的合法权益受到严重损害的；
+涉及商业秘密的。
+
+第八章 未成年人信息的保护
+本应用非常重视对未成年人信息的保护。如果您是未满18周岁的未成年人，您的监护人需要仔细阅读本《隐私政策》并同意或授权您同意依照本《隐私政策》使用本应用产品及/或服务。如果您是未满14周岁的未成年人，您的监护人需要仔细阅读本《隐私政策》并明示同意您依照本《隐私政策》使用本应用产品及/或服务。
+如果您/您的监护人不同意本《隐私政策》的任何内容，您应该立即停止使用本应用产品及/或服务。
+
+第九章 本政策如何更新
+如本应用产品及/或服务发生以下变化，本应用将及时对本《隐私政策》进行相应的修订：
+本应用产品及/或服务所涉业务功能发生变更，导致处理个人信息的目的、类型、使用方式发生变更；
+您参与个人信息处理方面的权利及其行使方式发生重大变化；
+本应用负责处理您的个人信息安全的部门的联络方式及投诉渠道发生变更；
+发生其他可能影响用户个人信息安全或影响用户隐私权利的变更等。
+隐私政策》修订后本应用会在本应用产品及/或服务相关界面发布最新版本并以推送通知的方式告知用户，以便用户及时了解《隐私政策》的最新版本。
+未经您的明确同意，本应用不会削减您基于本《隐私政策》所享有的权利。
+如无特殊说明，修订后的《隐私政策》自公布之日起生效。
+
+第十章 投诉及建议
+您在使用本应用产品及/或服务的过程中，如果对本《隐私政策》有任何的疑义或建议，或您认为您的个人信息没有得到本《隐私政策》规定的保护，您可以通过以下方式联系本应用，本应用将真诚地处理您的投诉及建议。
+
+联系方式
+E-mail：info@seeingvoice.com
+联系电话：+86-351-5235518
+微信服务号：seeingvoice
