@@ -8,6 +8,9 @@ weight: 4
 layout: service
 intro_image: "images/illustrations/reading.svg"
 ---
+自主知识产权的云平台存储并执行核心算法、语义识别、声学模型。个性化建模，深度学习。大模型、超高速计算。从验配技术、助听功能等方面大大提高助听器的体验和实际作用。
+
+
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
