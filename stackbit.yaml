@@ -91,12 +91,20 @@ models:
               - type: boolean
                 name: output
               - type: string
+              - type: string
+                name: subtitle
+              - type: string
+                name: description
                 name: permalink
           - type: object
             name: team
             fields:
               - type: boolean
                 name: output
+              - type: string
+                name: subtitle
+              - type: string
+                name: description
               - type: string
                 name: permalink
       - type: object
@@ -147,8 +155,6 @@ models:
         required: true
       - type: string
         name: subtitle
-      - type: string
-        name: description
       - type: string
         name: description
       - type: image
