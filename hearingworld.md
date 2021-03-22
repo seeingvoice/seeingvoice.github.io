@@ -17,4 +17,4 @@ intro_image_hide_on_mobile: false
 1. 安装方法：各大应用市场搜“见声听力测试”（华为、小米、OPPO、VIVO、应用宝、谷歌）。
 2. 使用说明：
 - <a href="https://v.qq.com/x/page/z32316y129r.html" target="_blank">QQ视频讲解</a>
-- <a href="https://v.qq.com/x/page/z32316y129r.html" target="_blank">头条视频讲解</a>
+- <a href="https://www.ixigua.com/6942253201676566564" target="_blank">头条视频讲解</a>
