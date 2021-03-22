@@ -8,7 +8,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# 见声听测
+# 听力计
 
 ## 手机耳机3分钟，听力健康在手中。
 
