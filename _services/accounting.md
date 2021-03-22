@@ -1,7 +1,7 @@
 ---
 title: hearingworld
-subtitle: hw1
-description: hw1
+subtitle: 'hw1'
+description: 'hw1'
 layout: service
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
