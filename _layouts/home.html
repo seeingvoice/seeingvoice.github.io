@@ -29,8 +29,8 @@ bodyClass: page-home
       <div class="col-12 col-md-4 mb-1">
         <div class="service service-summary">
           <div class="service-content">
-            <h2 class="service-subtitle">
-              <a href="{{site.baseurl}}{{ service.title }}">{{ service.title }}</a>
+            <h2 class="service-title">
+              <a href="{{site.baseurl}}{{ service.title }}">{{ service.subtitle }}</a>
             </h2>
             <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
           </div>
