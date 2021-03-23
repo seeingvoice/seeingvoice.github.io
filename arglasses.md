@@ -3,7 +3,7 @@ title: arglasses
 subtitle: '见声听测'
 description: '见声听测'
 layout: services
-intro_image: "images/realglass.jpg"
+intro_image: "images/realglass.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
