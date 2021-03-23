@@ -2,7 +2,7 @@
 title: 见声科技，AI Hearing World
 layout: home
 description: 我看故我听
-intro_image: "images/glasses2.png"
+intro_image: "images/hearing-test-service.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
