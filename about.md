@@ -2,7 +2,7 @@
 title: '我们提供弱听的终极解决方案'
 date: 2018-02-22T17:01:34+07:00
 layout: team
-intro_image: "images/teams.svg"
+intro_image: "images/about.png"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
