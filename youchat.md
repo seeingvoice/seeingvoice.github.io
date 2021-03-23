@@ -2,7 +2,7 @@
 title: youchat
 subtitle: 见声听测
 layout: services
-intro_image: "images/handhearingtest.jpg"
+intro_image: "images/handhearingtest.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
