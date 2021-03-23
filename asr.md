@@ -3,7 +3,7 @@ title: 40DADOW助听云
 subtitle: 'asr'
 description: '听力测试'
 layout: services
-intro_image: "images/illustrations/reading.svg"
+intro_image: "images/support.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
