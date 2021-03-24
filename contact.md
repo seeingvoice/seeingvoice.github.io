@@ -2,7 +2,7 @@
 title: 联系我们
 layout: contact
 bodyClass: page-contact
-intro_image: "images/teams.svg"
+intro_image: "images/building4.jpg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
@@ -12,5 +12,7 @@ intro_image_hide_on_mobile: false
 ![二维码](images/social/wechat150.jpg) 
 
 中国太原
+
 山西转型综合改革示范区科技创新孵化基地4号8楼
+
 
