@@ -2,9 +2,6 @@
 title: 联系我们
 layout: contact
 bodyClass: page-contact
-intro_image: "images/building4.jpg"
-intro_image_absolute: false
-intro_image_hide_on_mobile: false
 ---
 
 > 微信公众号：
