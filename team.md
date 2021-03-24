@@ -2,7 +2,7 @@
 title: Team
 layout: teams
 permalink: /team/
-intro_image: "images/team.png"
+intro_image: "images/teams.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
