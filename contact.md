@@ -2,6 +2,9 @@
 title: 联系我们
 layout: contact
 bodyClass: page-contact
+intro_image: "images/teams.svg"
+intro_image_absolute: false
+intro_image_hide_on_mobile: false
 ---
 
 > 微信公众号：
@@ -10,4 +13,4 @@ bodyClass: page-contact
 
 中国太原
 山西转型综合改革示范区科技创新孵化基地4号8楼
-![taiyuan](images/building4.jpg) 
+
