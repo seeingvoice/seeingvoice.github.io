@@ -161,20 +161,23 @@ bodyClass: page-about
 我们对接入的相关第三方SDK在目录中列明。
 
 1. com.huawei.hms(华为;华为推送)
+
 使用目的：使用华为账号服务和分析服务。调用华为机器学习服务。
+
 官网链接：https://developer.huawei.com/consumer/cn/doc/development
+
 范围：所有用户。
 
 2. com.huawei.agconnect(华为;华为联运应用)
+
 使用目的：连接华为云数据库；在线测试。
+
 官网链接：https://developer.huawei.com/consumer/cn/doc/development/AppGallery-connect-Library/agc-remoteconfig-sdkdownload-android-0000001064802824
+
 范围：所有用户。
-
-
 
 第五章 见声如何保护您的个人信息
 -------------------------------
-
 
 见声非常重视个人信息安全，并会采取一切合理可行的措施，持续保护您的个人信息，以防其他人在未经授权的情况下访问、篡改或披露见声收集的您的个人信息：
 
