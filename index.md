@@ -1,5 +1,5 @@
 ---
-title: 见声科技，AI Hearing World
+title: 见声科技，AI Hearing
 layout: home
 description: 我看故我听
 intro_image: "images/hearing-test-service.png"
