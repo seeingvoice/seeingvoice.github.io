@@ -8,8 +8,13 @@ bodyClass: page-contact
 
 ![二维码](images/social/wechat150.jpg) 
 
+
+ReApex Corporation
+173 Paradelle Dr. 
+L4E1C3
+Richmond Hill, ON Canada
+
 中国太原
 
 山西转型综合改革示范区科技创新孵化基地4号8楼
-
 
